@@ -5,13 +5,13 @@ This is a simple program to print a Prime Number Multiplication Table to either 
 2.) CD to the directory and run npm install
 
 
-View from your browser
-3.) From the command line, run "npm start"
-4.) Navigate to localhost:3000 and enter in the # of Prime Numbers you'd like to build your multiplication table with.
-5.) Continue to change the # of Prime Numbers to alter the table.
+View from your browser: 
+1.) From the command line, run "npm start"
+2.) Navigate to localhost:3000 and enter in the # of Prime Numbers you'd like to build your multiplication table with.
+3.) Continue to change the # of Prime Numbers to alter the table.
 
 
-View from terminal
-3.) From the command line, run "node primeNumber.js 10".
-4.) The number 10 from the step above is interchangeable with any number.  If you leave "10" blank, the program defaults to 10.  Any string, -number, null, undefined, or etc will default to 10. 
-5.) Continue to change the "10" to any number to alter the table size.
+View from terminal: 
+1.) From the command line, run "node primeNumber.js 10".
+2.) The number 10 from the step above is interchangeable with any number.  If you leave "10" blank, the program defaults to 10.  Any string, -number, null, undefined, or etc will default to 10. 
+3.) Continue to change the "10" to any number to alter the table size.
