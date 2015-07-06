@@ -1,0 +1,12 @@
+extends layout
+
+block content
+	h1= title
+	p How many Prime Numbers should we Include in your table?
+	input(
+		type='text'
+		name='primeNumber'
+		placeholder='# of Primes'
+	)
+	table(class='prime-table')
+

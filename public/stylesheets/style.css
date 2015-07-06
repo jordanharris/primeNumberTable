@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+input {
+	margin-bottom: 10px
+}
+
+.prime-cell {
+	background-color: #EFEFEF;
+	padding: 5px;
+	height: 40px;
+	width: 40px;
+	background-color: yellow
+	border-width: 10px;
+	border-color: black;
+	text-align: center;
+}
+
+.row-start {
+	background-color: #FAFAFA;
+}
