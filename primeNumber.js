@@ -75,6 +75,13 @@ module.exports.getPrimes = function getPrimes(xTableSize) {
 	return primeArray;
 }
 
+
+/*
+validateNumber function is a stand alone helper function that takes one argument and returns true or false if the passed value is a number
+@param - val (Number) - Number to validate
+Example return from function:
+	true
+*/
 function validateNumber(val) {
 	var validRegEx = /^\d*$/;
 	var testRegEx = validRegEx.test(val);

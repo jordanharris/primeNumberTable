@@ -80,6 +80,13 @@ function createPrimeTable(primeNumbersArray) {
 return myString;
 }
 
+
+/*
+validateNumber function is a stand alone helper function that takes one argument and returns a number or false if the passed value is a number
+@param - val (Number) - Number to validate
+Example return from function:
+	return 4
+*/
 function validateNumber(val) {
 	var validRegEx = /^\d*$/;
 	var testRegEx = validRegEx.test(val);
