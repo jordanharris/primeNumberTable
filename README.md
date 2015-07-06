@@ -17,3 +17,5 @@ View from terminal:
 3.) Continue to change the "10" to any number to alter the table size.
 
 *At the bottom of the terminal out put is the line "Algorithm Time Performance Test".  This shows (in milliseconds) the time it takes to run the program.
+
+*Running "jasmine" from the command line will run the unit tests.
