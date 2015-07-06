@@ -84,7 +84,6 @@ function validateNumber(val) {
 	var validRegEx = /^\d*$/;
 	var testRegEx = validRegEx.test(val);
 	if (!testRegEx) {
-		console.log("false")
 		return false;
 	}
 	return val;

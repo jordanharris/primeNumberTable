@@ -15,3 +15,5 @@ View from terminal:
 1.) From the command line, run "node primeNumber.js 10".
 2.) The number 10 from the step above is interchangeable with any number.  If you leave "10" blank, the program defaults to 10.  Any string, -number, null, undefined, or etc will default to 10. 
 3.) Continue to change the "10" to any number to alter the table size.
+
+*At the bottom of the terminal out put is the line "Algorithm Time Performance Test".  This shows (in milliseconds) the time it takes to run the program.
